@@ -1,0 +1,12 @@
+c:\users\shynka\source\repos\Voxel\Voxel\bin\Debug\Voxel.exe.config
+c:\users\shynka\source\repos\Voxel\Voxel\bin\Debug\Voxel.exe
+c:\users\shynka\source\repos\Voxel\Voxel\bin\Debug\Voxel.pdb
+c:\users\shynka\source\repos\Voxel\Voxel\bin\Debug\Voxel.xml
+c:\users\shynka\source\repos\Voxel\Voxel\obj\Debug\Voxel.vbprojAssemblyReference.cache
+c:\users\shynka\source\repos\Voxel\Voxel\obj\Debug\Voxel.Form1.resources
+c:\users\shynka\source\repos\Voxel\Voxel\obj\Debug\Voxel.Resources.resources
+c:\users\shynka\source\repos\Voxel\Voxel\obj\Debug\Voxel.vbproj.GenerateResource.cache
+c:\users\shynka\source\repos\Voxel\Voxel\obj\Debug\Voxel.vbproj.CoreCompileInputs.cache
+c:\users\shynka\source\repos\Voxel\Voxel\obj\Debug\Voxel.exe
+c:\users\shynka\source\repos\Voxel\Voxel\obj\Debug\Voxel.xml
+c:\users\shynka\source\repos\Voxel\Voxel\obj\Debug\Voxel.pdb
